@@ -23,6 +23,8 @@ class Ramka extends JFrame {
         this.add(panelGry,BorderLayout.CENTER);
 
 
+
+
         JPanel up_panel = new JPanel();
         up_panel.setLayout(new GridLayout(1,2));
         this.add(up_panel, BorderLayout.PAGE_START);
